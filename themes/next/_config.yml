@@ -180,7 +180,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/Mashirl || github
-  E-Mail: mailto:admin@mashirl.cn || envelope
+  E-Mail: mailto:i@mashirl.com || envelope
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/LoveMashirl || twitter
   Weibo: https://weibo.com/Mashirl || weibo

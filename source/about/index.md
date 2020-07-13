@@ -17,6 +17,8 @@ date: 2019-11-28 19:31:45
 
 你可以在[这里](https://pgp.key-server.io/0xEB13DD3747041022)获取我的PGP公钥，指纹是 <code>30A8 0B8E 4299 8415 295C  62D6 EB13 DD37 4704 1022</code>
 
+你可以在[这里](https://www.mashirl.com/atom.xml)来订阅本站的RSS
+
 ## 捐助我
 
 博客是免费托管在[GitHub Pages](https://pages.github.com/)的 不需要什么钱，一般来说，我的钱都是用来开一个叫做Vdrias World!的Minecraft生存服务器了，如果您想要支持我一下的话，可以点击下面的链接前往我的爱发电主页进行捐助。

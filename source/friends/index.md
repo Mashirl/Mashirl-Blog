@@ -36,7 +36,6 @@ date: 2019-11-28 21:56:26
 + [FlyEmojiSTudio的不那么严谨的Blog](https://flyemoji.xyz)【要和表情酱一起睡午觉吗~】
 + [Lemon_miaow's Blog](https://lemonmiaow.xyz)
 + [雨泪](https://www.daisuki.ink/)
-+ [絵里](https://www.kagurazakaeri.com/)
 + [Lanxy椰子](https://www.lanxy.top/)
 + [Subilan](https://subilan.win/)
 + [DreamCity](https://www.littleqiu.net)【虽然对方没有添加我，但是这确实是个大佬（~~纯粹是我想加~~】

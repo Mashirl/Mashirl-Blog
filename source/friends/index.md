@@ -43,6 +43,7 @@ date: 2019-11-28 21:56:26
 + [ZhouYuBin's Blog](https://www.zhouyubin.top/)
 + [HackerRouter’s Blog](https://hackerrouter.github.io/)
 + [LLLgoyour 的世界](https://lllgoyour.club/)
++ [StarTrails' blog](https://startrails.top/)
 
 ## 友链申请
 

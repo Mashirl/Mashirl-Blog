@@ -8,6 +8,8 @@ tags:
 
 嘛。。至于为什么我用上了MIUI 12还要刷[Pixel Experience](https://download.pixelexperience.org/)的原因嘛。。。其实就是。。。~~突然就觉得用着不爽了然后他妈的就又双叒叕刷机了~~，想要和Google亲儿子一样用着舒服的自带Gapps的ROM，然后我第一个就想到了[Pixel Experience](https://download.pixelexperience.org/)（以下简称PE），由于我手上这台Sirius在这个ROM的官网并没有找到对这个机型的支持，就去xda逛了一下，发现了solidv大佬适配的Pixel Experience，这里放一下链接吧[[ROM][10.0][UNOFFICIAL] Pixel Experience & Pixel Experience Plus [AOSP] [23-04-2020]](https://forum.xda-developers.com/mi-8-se/development/rom-pixel-experience-t4039373)
 
+<!-- more -->
+
 ## 说说使用体验吧
 
 在我刷入这个ROM之后就觉得它自带的Google开机动画实在是好看，开机后先映入眼帘的是和Google Pixel基本一模一样的设置界面（至于为什么我知道基本一模一样，是因为我之前看过别人的Google Pixel开箱视频，里面有出现过设置界面）

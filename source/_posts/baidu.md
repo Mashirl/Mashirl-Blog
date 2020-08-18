@@ -20,6 +20,8 @@ tags:
 
 隐私泄露也不知道是真是假，严重怀疑这个人就是百度请来举报的，至少我是不会把隐私丢在百度网盘这种平台。
 
+<!-- more -->
+
 ## 百度贴吧卖吧
 
 以下内容摘抄自[Wikipedia](https://zh.wikipedia.org/)上面的[对百度的争议](https://zh.wikipedia.org/wiki/对百度的争议)

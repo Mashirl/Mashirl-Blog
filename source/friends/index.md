@@ -40,10 +40,11 @@ date: 2019-11-28 21:56:26
 + [Subilan](https://subilan.win/)
 + [DreamCity](https://www.littleqiu.net)【虽然对方没有添加我，但是这确实是个大佬（~~纯粹是我想加~~】
 + [林槐的杂货铺](https://stapx.chuhelan.com/)
-+ [ZhouYuBin's Blog](https://www.zhouyubin.top/)
++ [ZhouYuBin's Blog](https://zhouyubin.top/)
 + [HackerRouter’s Blog](https://hackerrouter.github.io/)
 + [LLLgoyour 的世界](https://lllgoyour.club/)
 + [StarTrails' blog](https://startrails.top/)
++ [徐艺扬的博客](https://xuyiyang.com.cn/)
 
 ## 友链申请
 
